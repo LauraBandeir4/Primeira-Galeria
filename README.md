@@ -1,6 +1,6 @@
 # Primeira-Galeria
 
-![](./galeriacarros.png)
+![](./CARROS.png)
 
 ## Projeto
 Galeria de carros, projeto coordenadp=o por Fernando Leonid 
